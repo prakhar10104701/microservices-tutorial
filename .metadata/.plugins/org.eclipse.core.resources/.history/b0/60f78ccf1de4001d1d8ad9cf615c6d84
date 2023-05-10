@@ -1,5 +1,0 @@
-package com.microservices.userservice.external.services;
-
-public interface RatingService {
-
-}

@@ -1,0 +1,5 @@
+package com.microservices.gateway.controllers;
+
+public class AuthController {
+
+}

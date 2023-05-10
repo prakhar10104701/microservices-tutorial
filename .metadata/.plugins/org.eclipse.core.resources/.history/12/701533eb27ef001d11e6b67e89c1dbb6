@@ -1,0 +1,7 @@
+package com.microservices.userservice.interceptor;
+
+import org.springframework.http.client.ClientHttpRequestInterceptor;
+
+public class RestTemplateInterceptor implements ClientHttpRequestInterceptor {
+
+}

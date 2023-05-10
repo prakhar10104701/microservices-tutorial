@@ -1,5 +1,0 @@
-package com.microservices.userservice.external.service;
-
-public interface HotelService {
-
-}

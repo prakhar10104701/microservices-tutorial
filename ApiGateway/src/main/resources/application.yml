@@ -33,3 +33,12 @@ eureka:
   instance:
     prefer-ip-address: true
     
+# okta configuration for api gateway
+okta:
+  oauth2:
+    issuer: https://dev-62507520.okta.com/oauth2/default
+    audience: api://default
+    client-id: 0oa9gcginrn5lGpDf5d7
+    client-secret: cJOiKJP40OipIJEB5VKuomfCnp7f1tQb3sFTLRKs
+    scopes: openid, profile, email, offline_access
+    

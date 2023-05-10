@@ -1,5 +1,0 @@
-package com.microservices.userservice.entities;
-
-public class Hotel {
-
-}

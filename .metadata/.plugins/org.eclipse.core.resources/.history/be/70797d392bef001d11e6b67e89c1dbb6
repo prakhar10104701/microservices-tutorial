@@ -1,0 +1,5 @@
+package com.microservices.hotelservice.config;
+
+public class SecurityCInfig {
+
+}

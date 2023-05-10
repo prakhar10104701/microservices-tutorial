@@ -1,0 +1,5 @@
+package com.microservices.ratingservice.config;
+
+public class SecurityConfig {
+
+}
